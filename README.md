@@ -12,7 +12,7 @@ I'm Ankit Kumar, a passionate Technology and Development from Chandigarh India.
 🛠️ Tech Stack
 - Languages: C c++ Html Css JavaScript Reactjs Nodejs Rust GO Python Solidity TypeScript Web3js Truffles 
 - Frameworks: Django 
-- Tools: 
+- Environment: Truffles Ganache Hardhat
 - Databases: IPFS MySql
 
 <!---📚 Projects
