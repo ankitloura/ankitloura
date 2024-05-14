@@ -26,7 +26,7 @@ I'm Ankit Kumar, a passionate Technology and Development from Chandigarh India.
 - Masters in Blockchain Development
 
 📊 GitHub Stats
-[![Your GitHub stats]([https://github-readme-stats.vercel.app/api?username=YourUsername)](https://github.com/anuraghazra/github-readme-stats](https://github.com/ankitloura))
+[![Your GitHub stats](https://github.com/anuraghazra/github-readme-stats](https://github.com/ankitloura))
 
 🤝 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/ankit-kumar-899a4a175/
