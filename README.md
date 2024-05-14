@@ -1,37 +1,35 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate [Your Role] from [Your Location].
+I'm Ankit Kumar, a passionate Technology and Development from Chandigarh India.
 
 🚀 About Me
 - 💼 I'm currently working at [Your Company].
-- 🌱 I'm currently learning [Something Interesting].
-- 👯 I'm looking to collaborate on [Open Source Projects].
-- 💬 Ask me about [Your Expertise].
-- 📫 How to reach me: [Your Email Address].
+- 🌱 I'm currently learning Blockchain Development.
+- 👯 I'm looking to collaborate on Web Development and Blockchain Development.
+- 💬 Ask me about Web Development.
+- 📫 How to reach me: ankitdabri335503@gmail.com.
 
 🛠️ Tech Stack
-- Languages: [Your Programming Languages]
-- Frameworks: [Your Frameworks]
-- Tools: [Your Tools]
-- Databases: [Your Databases]
+- Languages: C c++ Html Css JavaScript Reactjs Nodejs Rust GO Python Solidity TypeScript Web3js Truffles 
+- Frameworks: Django 
+- Tools: 
+- Databases: IPFS MySql
 
-📚 Projects
+<!---📚 Projects
 - [Project 1]: [Brief Description]
 - [Project 2]: [Brief Description]
-- [Project 3]: [Brief Description]
+- [Project 3]: [Brief Description]--->
 
 🏆 Achievements
-- [Achievement 1]
-- [Achievement 2]
-- [Achievement 3]
+- Diploma in Cloud Computing
+- Diploma in Web Development
+- Masters in Blockchain Development
 
 📊 GitHub Stats
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername)](https://github.com/anuraghazra/github-readme-stats)
 
 🤝 Connect with Me
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Profile]
-- Website: [Your Website]
+- LinkedIn: https://www.linkedin.com/in/ankit-kumar-899a4a175/
 
 Feel free to reach out and connect with me! 😊
 
