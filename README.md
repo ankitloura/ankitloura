@@ -3,7 +3,7 @@
 I'm Ankit Kumar, a passionate Technology and Development from Chandigarh India.
 
 🚀 About Me
-- 💼 I'm currently working at [Your Company].
+<!--- 💼 I'm currently working at [Your Company].--->
 - 🌱 I'm currently learning Blockchain Development.
 - 👯 I'm looking to collaborate on Web Development and Blockchain Development.
 - 💬 Ask me about Web Development.
